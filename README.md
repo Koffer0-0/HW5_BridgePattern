@@ -1,1 +1,2 @@
-# HW5_AdapterPattern
+# HW5_BridgePattern
+Temirlan Akishev implementation
